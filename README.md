@@ -1,2 +1,3 @@
 # Spark-KickStart
-Usage of Spark using Python
+
+A real time example of where spark can be used to improve the existing system 
